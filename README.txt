@@ -1,5 +1,9 @@
 Simple signup form made for Vü Speech's Peer Support Group
 
+Author: Doug Kellermeyer
+
+Theme: Utilized Eventually them on HTML5UP - https://html5up.net/eventually
+
 
 Signup Form:
 
